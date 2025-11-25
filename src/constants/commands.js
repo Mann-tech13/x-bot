@@ -1,5 +1,7 @@
 export const COMMANDS = {
   GET_TWEET: "/gettweet",
+  // APPLY: "/apply",
+  // DENY: "/deny"
 };
 
 export const TWEET_PROMPT = `

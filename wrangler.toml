@@ -1,0 +1,7 @@
+name = "tweet-bot"
+main = "src/index.js"
+compatibility_date = "2025-02-25"
+
+kv_namespaces = [
+  { binding = "TWEET_STORE", id = "8032b32c2ec24d3199d1ce618a782a6c" }
+]
